@@ -6,7 +6,7 @@ const Projects = () => {
     {
       title: "Ad Campaign Routing & Delivery Validation",
       description: "Simulated and validated routing logic for ad campaign delivery across segmented networks, improving delivery accuracy and reducing failures. Identified proxy and NAT issues that impacted campaign loads.",
-      image: "src/assets/project1.png",
+      image: "/project1.png",
       technologies: ["TCP/IP", "Wireshark", "NAT", "Postman", "ADZU Platform"],
       features: [
         "End-to-end routing simulation",
@@ -20,7 +20,7 @@ const Projects = () => {
     {
       title: "API & Endpoint Security Testing for Ad Operations",
       description: "Tested and secured RESTful APIs used in campaign workflows with a focus on access control, token validation, and payload integrity. Helped reduce API failure rates and strengthen endpoint protection.",
-      image: "src/assets/project2.png",
+      image: "/project2.png",
       technologies: ["Postman", "REST APIs", "JWT", "Role-based Access", "Python"],
       features: [
         "Token expiration & invalid credential testing",
@@ -33,7 +33,7 @@ const Projects = () => {
     {
       title: "Automation of Network Login Verification Flows",
       description: "Automated VPN-authenticated login test flows to validate access control and session handling across multiple user roles. Ensured secure login behavior under load and MFA policies.",
-      image: "src/assets/project3.png",
+      image: "/project3.png",
       technologies: ["Selenium", "TestNG", "Bash", "VPN", "MFA"],
       features: [
         "Automated login test scripts",
@@ -46,7 +46,7 @@ const Projects = () => {
     {
       title: "Student Network Usage Insights Dashboard",
       description: "Created dashboards to visualize network usage patterns by analyzing login logs, bandwidth trends, and anomalies. Simulated NOC-style monitoring for proactive insights.",
-      image: "src/assets/project4.png",
+      image: "/project4.png",
       technologies: ["SQL", "Python", "Wireshark", "Excel", "Log" ,"Parsing"],
       features: [
         "Session duration and bandwidth charts",

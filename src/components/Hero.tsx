@@ -42,7 +42,7 @@ const Hero = () => {
             </div>
             
             <h1 className="text-4xl sm:text-5xl xl:text-6xl font-bold mb-6 tracking-tight">
-              <span className="gradient-text">Deepti Reddy </span>
+              <span className="gradient-text">JDeepti Reddy </span>
               <br />
               <span className="text-2xl sm:text-3xl xl:text-4xl font-semibold text-muted">
                  Network Engineer
